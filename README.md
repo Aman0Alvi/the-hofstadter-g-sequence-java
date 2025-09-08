@@ -1,5 +1,7 @@
 # The Hofstadter G-Sequence (Java)
 
+<img width="1418" height="1101" alt="image" src="https://github.com/user-attachments/assets/17fcda61-22a3-429b-ae63-a78696cce013" />
+
 You can find the instructions for this lab at [More Than Equations][more-than-equations]. Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
 
 We will use [Gradle][gradle] to automate common development tasks, [JUnit][junit] for unit testing, and [JMH][jmh] for benchmarking.
